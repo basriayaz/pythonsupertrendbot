@@ -1,0 +1,5 @@
+pytelegrambotapi
+requests
+pandas
+urllib3
+
