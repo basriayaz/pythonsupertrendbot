@@ -2,4 +2,10 @@ pytelegrambotapi
 requests
 pandas
 urllib3
+binance.client
+talib
+numpy
+datetime
+sys
+math
 
